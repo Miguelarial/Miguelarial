@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mike Chibuzo Arihalam! Certified in Oracle Cloud Infrastructure, I blend skills from cybersecurity, marketing, and customer service to craft secure cloud solutions. With a diverse professional background and fluency in English and Italian, I'm passionate about innovation and collaboration in the tech landscape. Let's connect!
+👋 Hi, I'm Mike Chibuzo Arihalam! Certified in Azure, I blend skills from cybersecurity, marketing, and customer service to craft secure cloud solutions. With a diverse professional background and fluency in English and Italian, I'm passionate about innovation and collaboration in the tech landscape. Let's connect!
 
 
 ## 🌐 Socials:
